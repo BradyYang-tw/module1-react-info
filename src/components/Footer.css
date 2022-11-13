@@ -1,0 +1,10 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(10, 9, 37, 0.418);
+}
+
+a img {
+  width: 100px;
+}

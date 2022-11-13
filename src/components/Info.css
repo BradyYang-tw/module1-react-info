@@ -1,0 +1,36 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.name,
+.job-title {
+  text-align: center;
+  color: white;
+}
+
+.name {
+  font-weight: 900;
+}
+
+.button-set {
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  border-radius: 10%;
+  border-color: transparent;
+}
+
+.linkedin-button {
+  background-color: rgb(80, 121, 211);
+  color: white;
+}
